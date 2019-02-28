@@ -1,6 +1,7 @@
 # Table of contents
 
-* [永不宕机的服务器 - 以太坊客户端及网络介绍](README.md)
+* [关于本书](README.md)
+* [永不宕机的服务器 - 以太坊客户端及网络介绍](ch01-ethereum-clients-and-networks.md)
 * [免费的才是最好的 - Rinkeby及水龙头](mian-fei-de-cai-shi-zui-hao-de-rinkeby-ji-shui-long-tou.md)
 * [工欲善其事必先利其器 - 插件钱包MetaMask和MyEtherWallet](gong-yu-shan-qi-shi-bi-xian-li-qi-qi-cha-jian-qian-bao-metamask-he-myetherwallet.md)
 * [人见人爱花见花开 – 在线 IDE Remix](ren-jian-ren-ai-hua-jian-hua-kai-zai-xian-ide-remix.md)
